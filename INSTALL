@@ -1,9 +1,9 @@
 Building freecoin
 
-See doc/readme-qt.rst for instructions on building freecoin QT,
+See doc/readme-qt.rst for instructions on building gorgoy QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Freecoin.
 
-See doc/build-*.txt for instructions on building freecoind,
+See doc/build-*.txt for instructions on building gorgoyd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Freecoin.
+implementation of Gorgoy.
